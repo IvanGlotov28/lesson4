@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;&family=Roboto&display=swap');
+
+
+
+@font-face {
+    font-family:"Larsseit" ;
+    src: url(../fonts/Larsseit/Larsseit_regular.woff2) format("woff2"),
+    url(../fonts/Larsseit/Larsseit_regular.woff) format("woff") ;
+    font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+
+
+@font-face {
+    font-family:"Lato" ;
+    src: url(../fonts/lato/Lato-Regular.woff2) format("woff2"),
+    url(../fonts/lato/Lato-Regular.woff) format("woff") ;
+    font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+    font-family:"Lato" ;
+    src: url(../fonts/lato/Lato-Bold.woff2) format("woff2"),
+    url(../fonts/lato/Lato-Bold.woff) format("woff") ;
+    font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+    font-family:"Lato" ;
+    src: url(../fonts/lato/Lato-Black.woff2) format("woff2"),
+    url(../fonts/lato/Lato-Black.woff) format("woff") ;
+    font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+
+
+header {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 38, 0, 0.349);
+
+}
+
+.title h1{font-family:"Lato" ;
+    font-weight: 700;
+    color: cadetblue;
+
+}
+
+.title h2 { 
+    font-family: "Lato";
+}
+
+.workgroup h2 {font-family:"Lato" ;
+    font-weight: 900;
+}
+
+
+
+.film-crew p {
+    font-family:"Lato" ;
+    font-weight: 400;
+}
+
+
+.cast p { font-family: "Larsseit"; 
+    
+}
+
+.main-actor,
+.main-actress {font-family: "Lato";
+}
+
+.plot h2 { font-family:"Lato" ;
+    font-weight: 700;
+}
+
+.plot p {font-family:"Lato"
+
+}
+
+.movie-making h2 {font-family:"Lato" ;
+    font-weight: 900;
+}
+.prehistory {
+}
+
+.text {font-family:'Roboto', sans-serif ;
+    
+}
+
+.quote {font-family:"Larsseit" ;
+}
+
+.awards h2 {
+    font-family:"Lato";
+    font-weight: 700;
+}
+.awards li {font-family:"Lato";
+
+}
+
+.anchor li
+{
+    font-family:'Roboto', sans-serif ;
+}
+
+
+
